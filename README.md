@@ -1,7 +1,4 @@
 # portfolio
 
-Учусь программированию с 2018 (написала чат-бот для телеграма на работе, занималась вычисткой баз данных). Дайте мне задачу - сделаю)
 </br>
-Python, data science, data analytics, EDA, SQL - могу и люблю, сейчас учу PostreSQL, ELT/ ETL, BI, Tableu, OLAP / OLTP.
-
-Мега обязательна к дедлайнам, перед тем как что-то спрашивать пять раз проверю нет ли ответа в интернете (не зря работала в большой поисковой компании :)
+Python, data science, data analytics, EDA, SQL - могу и люблю, подтягиваю учу PostreSQL, ELT/ ETL, BI, Tableu, OLAP / OLTP.
